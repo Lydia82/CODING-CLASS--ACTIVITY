@@ -1,0 +1,20 @@
+<html>
+<body>
+    <p>I'm learning the language of HTML</p>
+    Just Breathe... it will takes time and paractice.</p>
+  <p>
+    <img src="https://images.unsplash.com/photo-1507120410856-1f35574c3b45?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" alt="Breath" width= "55%"   
+<body>
+  <p>Lydia Mullen</p>
+  <p> My first a attempt to code</p>
+   <p> UX/UI Designer</p>
+   <a class =  "center" href= " https://www.codementor.io/experts">  Coding Resources</a>
+     <figure>
+      </body>
+   <textarea  rows="4" cols="45" class="center">
+   Here you can include text about coding
+     </textarea >
+     <figure>
+     </body>
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80" alt="Breath" width= "55%"   
+  </body>
